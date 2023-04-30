@@ -9,7 +9,7 @@ changed to any other activeMQ.
 
 
 To start application run mvn install
-adn then mvn spring-boot:run.
+and then mvn spring-boot:run.
 
 App will start on port 8080.
 The database can be accesed at 
