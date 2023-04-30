@@ -8,7 +8,7 @@ in memory activeMQ by default, can be
 changed to any other activeMQ.
 
 
-To start application run mvn install
+To start application run mvn clean install
 and then mvn spring-boot:run.
 
 The database will be populated at start with
